@@ -1,0 +1,464 @@
+2013/01/01 Opening Balances
+    Equity:Opening Balances
+    Assets:Checking:Car           $-273.93
+    Assets:Checking:Clothing      $171.52
+    Assets:Checking:Condo Fee     $140.00
+    Assets:Checking:Condo Ins     $-458.44
+    Assets:Checking:Debt          $426.86
+    Assets:Checking:Food          $-221.70
+    Assets:Checking:Gym           $591.23
+    Assets:Checking:Medical       $-86.97
+    Assets:Checking:Mortgage      $775.88
+    Assets:Checking:Pay Bills     $-139.41
+    Assets:Checking:Personal      $-235.72
+    Assets:Checking:Reserve       $-2218.44
+    Assets:Checking:Savings       $2203.62
+    Assets:Checking:Student Loan  $148.15
+    Assets:Checking:Utilities     $174.49
+    Assets:BoA                          $1.10
+    Assets:Cash                         $100.00
+    Assets:Savings                      $2392.07
+    Assets:Work                $133.21
+    Liabilities:Credit Card:AMEX        $-490.61
+    Liabilities:Credit Card:CitiCard    $-894.65
+
+2013/01/03 * (T) Ikea - Curtain rod supplies
+    Assets:Checking:Personal      $-9.00
+    Assets:Checking:Pay Bills     $8.36
+    Assets:Checking:Savings       $.64
+    Liabilities:Credit Card:CitiCard    $-8.36
+    Expenses:Condo:Furniture            $8.36
+
+2013/01/03 * (T) Wendys
+    Assets:Checking:Food          $-10.00
+    Assets:Checking:Pay Bills     $9.24
+    Assets:Checking:Savings       $.76
+    Liabilities:Credit Card:CitiCard    $-9.24
+    Expenses:Dining                     $9.24
+
+2013/01/03 * Trainer
+	Assets:Checking:Gym			$-255.00
+	Expenses:Gym:Trainer				$255.00
+
+2013/01/03 * Condo Fee - Jan
+	Assets:Checking:Condo Fee		$-80.00
+	Expenses:Condo:Condo Fee			$80.00
+
+2013/01/03 * Cable
+    Assets:Checking:Utilities     $-63.00
+    Expenses:Utilities:Cable            $62.95
+    Assets:Checking:Savings       $.05
+
+2013/01/05 * (T) CVS - Lock
+    Assets:Checking:Personal      $-8.00
+    Assets:Checking:Pay Bills     $7.76
+    Assets:Checking:Savings       $.24
+    Liabilities:Credit Card:CitiCard    $-7.76
+    Expenses:Gym                        $7.76
+
+2013/01/05 * Cash
+    Assets:Checking:Food          $-25.00
+    Assets:Checking:Personal      $-18.00
+    Assets:Cash                         $40.00
+    Expenses:Bank:Fees                  $3.00
+
+2013/01/05 * Il Mee Restuarant
+    Assets:Cash                         $-30.00
+    Expenses:Dining                     $25.00
+    Expenses:Drinks                     $5.00
+
+2013/01/06 * (T) McDonalds
+    Assets:Checking:Food          $-5.00
+    Assets:Checking:Pay Bills     $4.91
+    Assets:Checking:Savings       $.09
+    Liabilities:Credit Card:CitiCard    $-4.91
+    Expenses:Dining                     $4.91
+
+2013/01/06 * (T) Gas
+    Assets:Checking:Car           $-40.00
+    Assets:Checking:Pay Bills     $39.65
+    Assets:Checking:Savings       $.35
+    Liabilities:Credit Card:AMEX        $-39.65
+    Expenses:Auto:Gas                   $39.65
+
+2013/01/06 * (T) H-Mart
+    Assets:Checking:Food          $-11.00
+    Assets:Checking:Pay Bills     $10.27
+    Assets:Checking:Savings       $.73
+    Liabilities:Credit Card:CitiCard    $-10.27
+    Expenses:Dining                     $3.34
+    Expenses:Groceries                  $6.93
+
+2013/01/07 * (T) Flight to Las Vegas
+    Assets:Checking:Reserve       $-571.10
+    Assets:Checking:Pay Bills     $571.10
+    Liabilities:Credit Card:AMEX        $-571.10
+    Assets:Work                $571.10
+
+2013/01/07 * (T) Chipotle
+    Assets:Checking:Food          $-18.00
+    Assets:Checking:Pay Bills     $17.69
+    Assets:Checking:Savings       $.31
+    Liabilities:Credit Card:AMEX        $-17.69
+    Expenses:Dining                     $17.69
+
+2013/01/08 * (T) Chopt
+    Assets:Checking:Food          $-10.00
+    Assets:Checking:Pay Bills     $10.00
+    Liabilities:Credit Card:AMEX        $-10.00
+    Expenses:Dining                     $10.00
+
+2013/01/08 * (T) Parking
+    Assets:Checking:Car           $-1.00
+    Assets:Checking:Pay Bills     $.45
+    Assets:Checking:Savings       $.55
+    Liabilities:Credit Card:AMEX        $-.45
+    Expenses:Auto:Parking               $.45
+
+2013/01/09 * (T) Asian Bistro
+    Assets:Checking:Food          $-9.00
+    Assets:Checking:Pay Bills     $8.35
+    Assets:Checking:Savings       $.65
+    Liabilities:Credit Card:CitiCard    $-8.35
+    Expenses:Dining                     $8.35
+
+2013/01/10 * (T) Gym
+    Assets:Checking:Personal      $-28.00
+    Liabilities:Credit Card:AMEX        $-27.95
+    Assets:Checking:Savings       $.05
+    Expenses:Gym                        $27.95
+    Assets:Checking:Pay Bills     $27.95
+
+2013/01/10 * (T) Lost Dog
+    Assets:Checking:Food          $-28.00
+    Assets:Checking:Pay Bills     $27.15
+    Assets:Checking:Savings       $.85
+    Liabilities:Credit Card:AMEX        $-27.15
+    Expenses:Dining                     $27.15
+
+2013/01/11 * (T) 901 Restaurant
+    Assets:Checking:Food          $-41.50
+    Assets:Checking:Personal      $-41.50
+    Assets:Checking:Pay Bills     $82.01
+    Assets:Checking:Savings       $.99
+    Liabilities:Credit Card:CitiCard    $-82.01
+    Expenses:Dining                     $41.00
+    Expenses:Drinks                     $41.01
+
+2013/01/13 * (T) Harris Teeter
+    Assets:Checking:Food          $-35.00
+    Assets:Checking:Pay Bills     $34.29
+    Assets:Checking:Savings       $.71
+    Liabilities:Credit Card:AMEX        $-34.29
+    Expenses:Groceries                  $34.29
+
+2013/01/13 * (T) China Garden
+    Assets:Checking:Food          $-18.50
+    Assets:Checking:Personal      $-18.50
+    Assets:Checking:Pay Bills     $36.85
+    Assets:Checking:Savings       $.15
+    Liabilities:Credit Card:CitiCard    $-36.85
+    Expenses:Dining                     $18.42
+    Expenses:Gifts                      $18.43
+
+2013/01/14 * (T) Bash to Z Shell
+    Assets:Checking:Personal      $-16.00
+    Assets:Checking:Pay Bills     $15.39
+    Assets:Checking:Savings       $.61
+    Liabilities:Credit Card:AMEX        $-15.39
+    Expenses:Books                      $15.39
+
+2013/01/14 * CitiCard Payment
+    Assets:Checking:Pay Bills     $-27.75
+    Liabilities:Credit Card:CitiCard    $27.75
+
+2013/01/14 * Geico
+	Assets:Checking:Car			$-40.00
+	Assets:Checking:Savings		$.34
+	Expenses:Auto:Insurance				$39.66
+
+2013/01/15 * (T) Burger King - Breakfast
+    Assets:Checking:Food          $-8.00
+    Assets:Checking:Pay Bills     $7.96
+    Assets:Checking:Savings       $.04
+    Liabilities:Credit Card:AMEX        $-7.96
+    Expenses:Dining                     $7.96
+
+2013/01/15 * Paycheck
+    Income:Salary                       $-1480.71
+    Assets:Checking:Car           $109.00
+    Assets:Checking:Clothing      $50.00
+    Assets:Checking:Condo Fee     $70.00
+    Assets:Checking:Condo Ins     $18.20
+    Assets:Checking:Food          $110.00
+    Assets:Checking:Debt          $100.00
+    Assets:Checking:Gym           $141.50
+    Assets:Checking:Medical       $25.00
+    Assets:Checking:Personal      $106.46
+    Assets:Checking:Mortgage      $423.42
+    Assets:Checking:Savings       $188.07
+    Assets:Checking:Student Loan  $74.06
+    Assets:Checking:Utilities     $65.00
+	
+2013/01/15 * (T) Wegmans
+    Assets:Checking:Reserve       $-15.75
+    Assets:Checking:Pay Bills     $15.75
+    Liabilities:Credit Card:AMEX        $-15.75
+    Assets:Work                $15.75
+
+2013/01/15 * (T) H-Mart
+    Assets:Checking:Food          $-39.00
+    Assets:Checking:Pay Bills     $38.48
+    Assets:Checking:Savings       $.52
+    Liabilities:Credit Card:AMEX        $-38.48
+    Expenses:Groceries                  $38.48
+
+2013/01/15 * Student Loan Payment
+	Assets:Checking:Student Loan	$-42.11
+	Liabilities:Loans:CLC Student		$42.11
+
+2013/01/16 * (T) Gas
+    Assets:Checking:Car           $-38.00
+    Assets:Checking:Pay Bills     $37.28
+    Assets:Checking:Savings       $.72
+    Liabilities:Credit Card:AMEX        $-37.28
+    Expenses:Auto:Gas                   $37.28
+
+2013/01/18 * (T) Theater
+    Assets:Checking:Personal      $-18.00
+    Assets:Checking:Pay Bills     $18.00
+    Liabilities:Credit Card:AMEX        $-18.00
+    Expenses:Entertainment              $18.00
+
+2013/01/18 * (T) Busy Conf
+    Assets:Checking:Personal      $-17.00
+    Assets:Checking:Pay Bills     $17.00
+    Liabilities:Credit Card:AMEX        $-17.00
+    Expenses:Entertainment              $17.00
+
+2013/01/19 * (T) Paypal
+    Assets:Checking:Personal      $-76.00
+    Assets:Checking:Pay Bills     $75.97
+    Assets:Checking:Savings       $.03
+    Liabilities:Credit Card:CitiCard    $-75.97
+    Expenses:Gifts                      $75.97
+
+2013/01/19 * (T) Schneiders
+    Assets:Checking:Personal      $-24.00
+    Assets:Checking:Pay Bills     $23.08
+    Assets:Checking:Savings       $.92
+    Liabilities:Credit Card:AMEX        $-23.08
+    Expenses:Drinks                     $23.08
+
+2013/01/19 * (T) DC Sharpening
+    Assets:Checking:Food          $-26.00
+    Assets:Checking:Pay Bills     $25.44
+    Assets:Checking:Savings       $.56
+    Liabilities:Credit Card:AMEX        $-25.44
+    Expenses:Groceries                  $25.44
+
+2013/01/19 * (T) Takorean
+    Assets:Checking:Food          $-12.00
+    Assets:Checking:Pay Bills     $11.55
+    Assets:Checking:Savings       $.45
+    Liabilities:Credit Card:AMEX        $-11.55
+    Expenses:Dining                     $11.55
+
+2013/01/20 * (T) Harris Teeter
+    Assets:Checking:Food          $-49.00
+    Assets:Checking:Pay Bills     $48.03
+    Assets:Checking:Savings       $.97
+    Liabilities:Credit Card:AMEX        $-48.03
+    Expenses:Groceries                  $48.03
+
+2013/01/22 * (T) Dominos
+    Assets:Checking:Food          $-19.00
+    Assets:Checking:Pay Bills     $18.51
+    Assets:Checking:Savings       $.49
+    Liabilities:Credit Card:AMEX        $-18.51
+    Expenses:Dining                     $18.51
+
+2013/01/23 * (T) Giant
+    Assets:Checking:Food          $-66.00
+    Assets:Checking:Pay Bills     $65.52
+    Assets:Checking:Savings       $.48
+    Liabilities:Credit Card:AMEX        $-65.52
+    Expenses:Groceries                  $65.52
+
+2013/01/24 * (T) Haircut
+    Assets:Checking:Clothing      $-69.00
+    Assets:Checking:Pay Bills     $68.90
+    Assets:Checking:Savings       $.10
+    Liabilities:Credit Card:AMEX        $-68.90
+    Expenses:Hygiene                    $68.90
+
+2013/01/24 * (T) Lost Dog
+    Assets:Checking:Food          $-28.00
+    Assets:Checking:Pay Bills     $27.15
+    Assets:Checking:Savings       $.85
+    Liabilities:Credit Card:AMEX        $-27.15
+    Expenses:Dining                     $27.15
+
+2013/01/25 * Flight to Las Vegas - REIMBURSEMENT
+    Assets:Checking:Reserve       $571.10
+    Assets:Work                $-571.10
+
+2013/01/25 (T) Fogo de Chao
+    Assets:Checking:Personal      $-110.00
+    Assets:Checking:Food          $-110.00
+    Assets:Checking:Pay Bills     $218.22
+    Assets:Checking:Savings       $1.78
+    Liabilities:Credit Card:CitiCard    $-218.22
+    Expenses:Drinks                     $109.11
+    Expenses:Dinking                    $109.11
+
+2013/01/25 (T) Flight to Las Vegas Change Fee
+    Assets:Checking:Reserve       $-208.50
+    Assets:Checking:Pay Bills     $208.50
+    Liabilities:Credit Card:AMEX        $-208.50
+    Assets:Work                $208.50
+
+2013/01/26 (T) World Market - Sake
+    Assets:Checking:Personal      $-14.00
+    Assets:Checking:Pay Bills     $13.64
+    Assets:Checking:Savings       $.36
+    Liabilities:Credit Card:AMEX        $-13.64
+    Expenses:Drinks                     $13.64
+
+2013/01/27 (T) Costco - Platters
+    Assets:Checking:Reserve       $-109.00
+    Assets:Checking:Pay Bills     $108.60
+    Assets:Checking:Savings       $.40
+    Liabilities:Credit Card:AMEX        $-108.60
+    Expenses:Gifts                      $108.60
+
+2013/01/27 (T) Gas
+    Assets:Checking:Car           $-12.00
+    Assets:Checking:Pay Bills     $11.01
+    Assets:Checking:Savings       $.99
+    Liabilities:Credit Card:AMEX        $-11.01
+    Expenses:Auto:Gas                   $11.01
+
+2013/01/28 (T) Giant - Toothpicks
+    Assets:Checking:Food          $-4.00
+    Assets:Checking:Pay Bills     $3.15
+    Assets:Checking:Savings       $.85
+    Liabilities:Credit Card:CitiCard    $-3.15
+    Expenses:Groceries                  $3.15
+
+2013/01/28 (T) McDonalds
+    Assets:Checking:Food          $-5.00
+    Assets:Checking:Pay Bills     $4.79
+    Assets:Checking:Savings       $.21
+    Liabilities:Credit Card:CitiCard    $-4.79
+    Expenses:Dining                     $4.79
+
+2013/01/28 (T) Baggage Fee
+    Assets:Checking:Reserve       $-25.00
+    Assets:Checking:Pay Bills     $25.00
+    Liabilities:Credit Card:AMEX        $-25.00
+    Assets:Work                $25.00
+
+2013/01/28 (T) Tidewater Landing
+    Assets:Checking:Food          $-26.00
+    Assets:Checking:Pay Bills     $25.77
+    Assets:Checking:Savings       $.23
+    Liabilities:Credit Card:AMEX        $-25.77
+    Assets:Work                $25.77
+
+2013/01/28 (T) Sundries - Water Kind bar
+    Assets:Checking:Food          $-6.00
+    Assets:Checking:Pay Bills     $5.70
+    Assets:Checking:Savings       $.30
+    Liabilities:Credit Card:CitiCard    $-5.70
+    Expenses:Dining                     $5.70
+
+2013/01/28 (T) Cab to Hotel
+    Assets:Cash                         $-32.00
+    Assets:Work                $32.00
+
+2013/01/29 Cash
+    Assets:Checking:Reserve       $-82.50
+    Assets:Cash                         $80.00
+    Expenses:Bank:Fees                  $2.50
+
+2013/01/29 (T) Parasol Up Bar
+    Assets:Checking:Personal      $-31.00
+    Assets:Checking:Pay Bills     $30.03
+    Assets:Checking:Savings       $.97
+    Liabilities:Credit Card:CitiCard    $-30.03
+    Expenses:Drinks                     $30.03
+
+2013/01/29 (T) Destroy All Software
+	Assets:Checking:Personal		$-9.00
+	Assets:Checking:Pay Bills		$9.00
+	Liabilities:Credit Card:AMEX    	$-9.00
+	Expenses:Entertainment				$9.00
+	
+2013/01/29 (T) Hotels.com
+    Assets:Checking:Reserve       $-375.00
+    Assets:Checking:Savings       $.96
+    Assets:Checking:Pay Bills     $374.04
+    Expenses:Travel                     $374.04
+    Liabilities:Credit Card:CitiCard    $-374.04
+
+2013/01/30 (T) High Limit Bar
+    Assets:Checking:Personal      $-18.00
+    Assets:Checking:Pay Bills     $17.67
+    Assets:Checking:Savings       $.33
+    Liabilities:Credit Card:CitiCard    $-17.67
+    Expenses:Drinks                     $17.67
+
+2013/01/31 (T) Wynn Buffet
+    Assets:Checking:Reserve       $-22.00
+    Assets:Checking:Pay Bills     $21.61
+    Assets:Checking:Savings       $.39
+    Liabilities:Credit Card:CitiCard    $-21.61
+    Expenses:Work              $21.61
+
+2013/01/31 Mortgage
+    Assets:Checking:Mortgage      $-1136.04
+    Assets:Checking:Condo Ins     $-34.67
+    Expenses:Condo:Insurance            $34.67
+    Expenses:Condo:Mortgage:Principal   $847.57
+    Expenses:Condo:Taxes                $132.85
+    Expenses:Condo:Mortgage:Insurance   $145.16
+    Expenses:Condo:Parking              $10.46
+
+2013/01/31 AMEX Payment
+    Liabilities:Credit Card:AMEX        $1332.47
+    Assets:Checking:Pay Bills     $-1332.47
+	
+2013/01/31 Interest
+    Assets:Checking:Reserve       $.54
+    Income:Interest                     $-.54
+
+2013/01/31 Interest
+    Assets:Savings                      $1.52
+    Income:Interest                     $-1.52
+
+2013/01/31 Paycheck
+    Income:Salary                       $-1483.45
+    Assets:Checking:Car           $109.00
+    Assets:Checking:Clothing      $50.00
+    Assets:Checking:Condo Fee     $70.00
+    Assets:Checking:Condo Ins     $18.20
+    Assets:Checking:Food          $110.00
+    Assets:Checking:Debt          $100.00
+    Assets:Checking:Gym           $141.50
+    Assets:Checking:Medical       $25.00
+    Assets:Checking:Personal      $109.20
+    Assets:Checking:Mortgage      $423.42
+    Assets:Checking:Savings       $188.07
+    Assets:Checking:Student Loan  $74.06
+    Assets:Checking:Utilities     $65.00
+	
+2013/01/31 (T) Yellowtail
+    Assets:Checking:Personal      $-144.50
+    Assets:Checking:Food          $-144.50
+    Assets:Checking:Pay Bills     $288.52
+    Assets:Checking:Savings       $.48
+    Liabilities:Credit Card:CitiCard    $-288.52
+    Expenses:Drinks                     $144.26
+    Expenses:Dining                     $144.26
+
