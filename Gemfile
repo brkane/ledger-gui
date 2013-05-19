@@ -39,6 +39,7 @@ end
 
 group :test do
   gem 'capybara'
+  gem 'nyan-cat-formatter'
 end
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
