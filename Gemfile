@@ -5,8 +5,6 @@ ruby '2.0.0'
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.0.rc1'
 
-
-
 # Use SCSS for stylesheets
 gem 'sass-rails', '~> 4.0.0.rc1'
 
@@ -27,19 +25,27 @@ gem 'turbolinks'
 
 gem 'thin'
 gem 'slim-rails'
+gem 'becoming'
+gem 'naught'
+gem 'simple_form'
+gem 'mongoid'
 
 group :development, :test do
+  gem 'rspec', '~> 2.14.0.rc1'
   gem 'rspec-rails'
   gem 'pry-rails'
   gem 'pry-nav'
 
   gem "better_errors"
   gem "binding_of_caller"
+  gem 'metric_fu'
+  gem 'rubocop'
 end
 
 group :test do
   gem 'capybara'
   gem 'nyan-cat-formatter'
+  gem 'emoji-rspec'
 end
 
 # Build JSON APIs with ease. Read more: https://github.com/rails/jbuilder
