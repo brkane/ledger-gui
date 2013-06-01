@@ -28,9 +28,9 @@ development:
         # operation on failure. (default: 1)
         # retry_interval: 1
   # Configure Mongoid specific options. (optional)
-  options:
+  options: &default_opts
     # Enable the identity map, needed for eager loading. (default: false)
-    # identity_map_enabled: false
+    identity_map_enabled: true
 
     # Includes the root model name in json serialization. (default: false)
     # include_root_in_json: false
@@ -74,3 +74,5 @@ test:
         # low amounts for fast failures.
         max_retries: 1
         retry_interval: 0
+  options:
+    <<: *default_opts
