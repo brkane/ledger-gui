@@ -28,22 +28,32 @@ gem 'slim-rails'
 gem 'becoming'
 gem 'naught'
 gem 'simple_form'
-gem 'mongoid'
+gem "mongoid", github: 'mongoid'
+
+gem 'bourbon'
+gem 'zurb-foundation'
+gem 'bson_ext'
 
 group :development, :test do
   gem 'rspec', '~> 2.14.0.rc1'
-  gem 'rspec-rails'
+  gem 'rspec-rails', github: 'rspec/rspec-rails'
+  gem 'mongoid-rspec'
   gem 'pry-rails'
   gem 'pry-nav'
 
-  gem "better_errors"
-  gem "binding_of_caller"
-  gem 'metric_fu'
+  gem 'better_errors'
+  gem 'binding_of_caller'
+
+  # Testing and Code Quality Gems
+  gem "metric_fu", "~> 4.2.1"
   gem 'rubocop'
 end
 
 group :test do
   gem 'capybara'
+  gem 'conjurer'
+
+  # Test Output Formatters
   gem 'nyan-cat-formatter'
   gem 'emoji-rspec'
 end
