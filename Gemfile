@@ -3,10 +3,10 @@ source 'https://rubygems.org'
 ruby '2.0.0'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.0.0.rc1'
+gem 'rails', '4.0.0.rc2'
 
 # Use SCSS for stylesheets
-gem 'sass-rails', '~> 4.0.0.rc1'
+gem 'sass-rails', '~> 4.0.0.rc2'
 
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
@@ -32,6 +32,7 @@ gem "mongoid", github: 'mongoid'
 
 gem 'bourbon'
 gem 'zurb-foundation'
+gem 'font-awesome-rails'
 gem 'bson_ext'
 
 group :development, :test do
