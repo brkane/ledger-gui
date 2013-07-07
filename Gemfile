@@ -3,10 +3,10 @@ source 'https://rubygems.org'
 ruby '2.0.0'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
-gem 'rails', '4.0.0.rc1'
+gem 'rails', '~> 4.0.0'
 
 # Use SCSS for stylesheets
-gem 'sass-rails', '~> 4.0.0.rc1'
+gem 'sass-rails', '~> 4.0.0'
 
 # Use Uglifier as compressor for JavaScript assets
 gem 'uglifier', '>= 1.3.0'
@@ -35,8 +35,8 @@ gem 'zurb-foundation'
 gem 'bson_ext'
 
 group :development, :test do
-  gem 'rspec', '~> 2.14.0.rc1'
-  gem 'rspec-rails', github: 'rspec/rspec-rails'
+  gem 'rspec', '~> 2.14.0'
+  gem 'rspec-rails'
   gem 'mongoid-rspec'
   gem 'pry-rails'
   gem 'pry-nav'
