@@ -35,8 +35,8 @@ gem 'zurb-foundation'
 gem 'bson_ext'
 
 group :development, :test do
-  gem 'rspec', '~> 2.14.0.rc1'
-  gem 'rspec-rails', github: 'rspec/rspec-rails'
+  gem 'rspec', '~> 2.14.0'
+  gem 'rspec-rails'
   gem 'mongoid-rspec'
   gem 'pry-rails'
   gem 'pry-nav'
