@@ -31,9 +31,6 @@ This web frontend provides an easy way to maintain your ledger input file and to
 Outstanding questions
 ---------------------
 
-### What license to use?
-http://3.bp.blogspot.com/--EfX5P6Ny7Q/T6aSO_LdpNI/AAAAAAAAAgY/v-QFMmbP5As/s1600/OSS+License.png
-
 ### How to handle the ledger file?
 The ledger binary expects to take a file as input as described above. A couple of ways to approach this:
 
@@ -41,3 +38,8 @@ The ledger binary expects to take a file as input as described above. A couple o
   - Use traditional Rails persistance layer, and when shelling out to ledger regenerate the ledger file from the persistence layer.
   - Use traditional Rails persistance layer, and when shelling out to ledger use a socket/named pipe to mimic the ledger file on demand. Don't even know if this is feasible, somewhat depends on the behavior of ledger binary, if it just does a single pass scan of the file or if it does any sort of rewinding or random seeks.
   - Don't use the ledger binary at all, and re-implement the functionality using Rails/Ruby. May provide the cleanest opportunity for flexibilty of output and new features, not sure how much of a performance difference it would be against shelling to the ledger binary.
+
+License
+-------
+
+[MIT](http://opensource.org/licenses/MIT)
