@@ -1,0 +1,11 @@
+= simple_form_for([transaction, @entry]) do |f|
+  = f.error_notification
+
+  .inputs
+    = f.input :transaction, disabled: true
+    = f.input :amount
+    = f.input :source_account_id, collection: Account.all
+    = f.input :destination_account_id, collection: Account.all
+
+  .actions
+    = f.button :submit

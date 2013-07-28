@@ -1,0 +1,25 @@
+p#notice = notice
+
+p
+  strong Date:
+  = @transaction.date
+p
+  strong Description:
+  = @transaction.description
+p
+  strong Entries:
+  ul
+    - @transaction.entries.each do |entry|
+      li
+        = entry
+        '
+        = link_to 'Show', transaction_entry_path(@transaction, entry)
+        '
+        = link_to 'Edit', edit_transaction_entry_path(@transaction, entry)
+        '
+        = link_to 'Destroy', transaction_entry_path(@transaction, entry), confirm: 'Are you sure?', method: :delete
+  = link_to 'Create Entry', new_transaction_entry_path(@transaction)
+
+= link_to 'Edit', edit_transaction_path(@transaction)
+'|
+= link_to 'Back', transactions_path

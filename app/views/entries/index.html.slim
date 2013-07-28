@@ -1,0 +1,25 @@
+h1 Listing entries
+
+table
+  tr
+    th Transaction
+    th Amount
+    th Source Account
+    th Destination Account
+    th
+    th
+    th
+
+  - @entries.each do |entry|
+    tr
+      td = entry.transaction
+      td = entry.amount
+      td = entry.source_account
+      td = entry.destination_account
+      td = link_to 'Show', transaction_entry_path(transaction, entry)
+      td = link_to 'Edit', edit_transaction_entry_path(transaction, entry)
+      td = link_to 'Destroy', transaction_entry_path(transaction, entry), confirm: 'Are you sure?', method: :delete
+
+br
+
+= link_to 'New Entry', new_transaction_entry_path(transaction)

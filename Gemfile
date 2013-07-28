@@ -27,7 +27,7 @@ gem 'thin'
 gem 'slim-rails'
 gem 'becoming'
 gem 'naught'
-gem 'simple_form'
+gem 'simple_form', github: 'plataformatec/simple_form'
 gem "mongoid", github: 'mongoid'
 
 gem 'bourbon'
