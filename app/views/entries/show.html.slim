@@ -1,0 +1,18 @@
+p#notice = notice
+
+p
+  strong Transaction:
+  = @entry.transaction
+p
+  strong Amount:
+  = @entry.amount
+p
+  strong Source Account:
+  = @entry.source_account
+p
+  strong Destination Account:
+  = @entry.destination_account
+
+= link_to 'Edit', edit_transaction_entry_path(transaction, @entry)
+'|
+= link_to 'Back', transaction_entries_path(transaction)
